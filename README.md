@@ -1,4 +1,4 @@
-A modern style Navbar with carefully crafted animations.
+A modern style Navbar with carefully crafted animations. (A foundation of many of my future NavBars) 
 
 
 ⚙️ Live code here: https://githubbox.com/keiryan/Navbar
